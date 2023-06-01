@@ -1,1 +1,1 @@
-// JavaScript to be added
+"Thanks for your email!"
